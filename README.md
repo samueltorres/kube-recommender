@@ -1,1 +1,1 @@
-# kube-resource-recommendation-exporter
+# kube-recommender
